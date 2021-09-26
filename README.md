@@ -9,4 +9,6 @@ Anggota
   
  Screenshot Enkripsi Dekripsi :  
  ![Enkripsi_Dekripsi](Enkripsi_Dekripsi.png "Enkirpsi Dekripsi Hill Cipher")
+   
+ Screenshot Cari Kunci :  
  ![Cari Kunci](CariKunci.png "Cari Kunci Hill Cipher")
